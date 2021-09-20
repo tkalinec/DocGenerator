@@ -1,0 +1,91 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Math
+  name: Math
+  href: api/Math.html
+  commentId: N:Math
+  fullName: Math
+  nameWithType: Math
+- uid: Math.Math
+  name: Math
+  href: api/Math.Math.html
+  commentId: T:Math.Math
+  fullName: Math.Math
+  nameWithType: Math
+- uid: Math.Math.Add(System.Double,System.Double)
+  name: Add(Double, Double)
+  href: api/Math.Math.html#Math_Math_Add_System_Double_System_Double_
+  commentId: M:Math.Math.Add(System.Double,System.Double)
+  fullName: Math.Math.Add(System.Double, System.Double)
+  nameWithType: Math.Add(Double, Double)
+- uid: Math.Math.Add(System.Int32,System.Int32)
+  name: Add(Int32, Int32)
+  href: api/Math.Math.html#Math_Math_Add_System_Int32_System_Int32_
+  commentId: M:Math.Math.Add(System.Int32,System.Int32)
+  fullName: Math.Math.Add(System.Int32, System.Int32)
+  nameWithType: Math.Add(Int32, Int32)
+- uid: Math.Math.Add*
+  name: Add
+  href: api/Math.Math.html#Math_Math_Add_
+  commentId: Overload:Math.Math.Add
+  isSpec: "True"
+  fullName: Math.Math.Add
+  nameWithType: Math.Add
+- uid: Math.Math.Divide(System.Double,System.Double)
+  name: Divide(Double, Double)
+  href: api/Math.Math.html#Math_Math_Divide_System_Double_System_Double_
+  commentId: M:Math.Math.Divide(System.Double,System.Double)
+  fullName: Math.Math.Divide(System.Double, System.Double)
+  nameWithType: Math.Divide(Double, Double)
+- uid: Math.Math.Divide(System.Int32,System.Int32)
+  name: Divide(Int32, Int32)
+  href: api/Math.Math.html#Math_Math_Divide_System_Int32_System_Int32_
+  commentId: M:Math.Math.Divide(System.Int32,System.Int32)
+  fullName: Math.Math.Divide(System.Int32, System.Int32)
+  nameWithType: Math.Divide(Int32, Int32)
+- uid: Math.Math.Divide*
+  name: Divide
+  href: api/Math.Math.html#Math_Math_Divide_
+  commentId: Overload:Math.Math.Divide
+  isSpec: "True"
+  fullName: Math.Math.Divide
+  nameWithType: Math.Divide
+- uid: Math.Math.Multiply(System.Double,System.Double)
+  name: Multiply(Double, Double)
+  href: api/Math.Math.html#Math_Math_Multiply_System_Double_System_Double_
+  commentId: M:Math.Math.Multiply(System.Double,System.Double)
+  fullName: Math.Math.Multiply(System.Double, System.Double)
+  nameWithType: Math.Multiply(Double, Double)
+- uid: Math.Math.Multiply(System.Int32,System.Int32)
+  name: Multiply(Int32, Int32)
+  href: api/Math.Math.html#Math_Math_Multiply_System_Int32_System_Int32_
+  commentId: M:Math.Math.Multiply(System.Int32,System.Int32)
+  fullName: Math.Math.Multiply(System.Int32, System.Int32)
+  nameWithType: Math.Multiply(Int32, Int32)
+- uid: Math.Math.Multiply*
+  name: Multiply
+  href: api/Math.Math.html#Math_Math_Multiply_
+  commentId: Overload:Math.Math.Multiply
+  isSpec: "True"
+  fullName: Math.Math.Multiply
+  nameWithType: Math.Multiply
+- uid: Math.Math.Subtract(System.Double,System.Double)
+  name: Subtract(Double, Double)
+  href: api/Math.Math.html#Math_Math_Subtract_System_Double_System_Double_
+  commentId: M:Math.Math.Subtract(System.Double,System.Double)
+  fullName: Math.Math.Subtract(System.Double, System.Double)
+  nameWithType: Math.Subtract(Double, Double)
+- uid: Math.Math.Subtract(System.Int32,System.Int32)
+  name: Subtract(Int32, Int32)
+  href: api/Math.Math.html#Math_Math_Subtract_System_Int32_System_Int32_
+  commentId: M:Math.Math.Subtract(System.Int32,System.Int32)
+  fullName: Math.Math.Subtract(System.Int32, System.Int32)
+  nameWithType: Math.Subtract(Int32, Int32)
+- uid: Math.Math.Subtract*
+  name: Subtract
+  href: api/Math.Math.html#Math_Math_Subtract_
+  commentId: Overload:Math.Math.Subtract
+  isSpec: "True"
+  fullName: Math.Math.Subtract
+  nameWithType: Math.Subtract

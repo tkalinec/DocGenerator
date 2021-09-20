@@ -1,0 +1,258 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DocGenerator
+  name: DocGenerator
+  href: api/DocGenerator.html
+  commentId: N:DocGenerator
+  fullName: DocGenerator
+  nameWithType: DocGenerator
+- uid: DocGenerator.MyClass
+  name: MyClass
+  href: api/DocGenerator.MyClass.html
+  commentId: T:DocGenerator.MyClass
+  fullName: DocGenerator.MyClass
+  nameWithType: MyClass
+- uid: DocGenerator.MyClass.#ctor
+  name: MyClass()
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass__ctor
+  commentId: M:DocGenerator.MyClass.#ctor
+  fullName: DocGenerator.MyClass.MyClass()
+  nameWithType: MyClass.MyClass()
+- uid: DocGenerator.MyClass.#ctor(System.Int32)
+  name: MyClass(Int32)
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass__ctor_System_Int32_
+  commentId: M:DocGenerator.MyClass.#ctor(System.Int32)
+  fullName: DocGenerator.MyClass.MyClass(System.Int32)
+  nameWithType: MyClass.MyClass(Int32)
+- uid: DocGenerator.MyClass.#ctor*
+  name: MyClass
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass__ctor_
+  commentId: Overload:DocGenerator.MyClass.#ctor
+  isSpec: "True"
+  fullName: DocGenerator.MyClass.MyClass
+  nameWithType: MyClass.MyClass
+- uid: DocGenerator.MyClass.anotherMethod(System.Int16[],System.Int32[0:,0:])
+  name: anotherMethod(Int16[], Int32[,])
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_anotherMethod_System_Int16___System_Int32_0__0___
+  commentId: M:DocGenerator.MyClass.anotherMethod(System.Int16[],System.Int32[0:,0:])
+  name.vb: anotherMethod(Int16(), Int32(,))
+  fullName: DocGenerator.MyClass.anotherMethod(System.Int16[], System.Int32[,])
+  fullName.vb: DocGenerator.MyClass.anotherMethod(System.Int16(), System.Int32(,))
+  nameWithType: MyClass.anotherMethod(Int16[], Int32[,])
+  nameWithType.vb: MyClass.anotherMethod(Int16(), Int32(,))
+- uid: DocGenerator.MyClass.anotherMethod*
+  name: anotherMethod
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_anotherMethod_
+  commentId: Overload:DocGenerator.MyClass.anotherMethod
+  isSpec: "True"
+  fullName: DocGenerator.MyClass.anotherMethod
+  nameWithType: MyClass.anotherMethod
+- uid: DocGenerator.MyClass.Del
+  name: MyClass.Del
+  href: api/DocGenerator.MyClass.Del.html
+  commentId: T:DocGenerator.MyClass.Del
+  fullName: DocGenerator.MyClass.Del
+  nameWithType: MyClass.Del
+- uid: DocGenerator.MyClass.func
+  name: func()
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_func
+  commentId: M:DocGenerator.MyClass.func
+  fullName: DocGenerator.MyClass.func()
+  nameWithType: MyClass.func()
+- uid: DocGenerator.MyClass.func*
+  name: func
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_func_
+  commentId: Overload:DocGenerator.MyClass.func
+  isSpec: "True"
+  fullName: DocGenerator.MyClass.func
+  nameWithType: MyClass.func
+- uid: DocGenerator.MyClass.Item(System.String)
+  name: Item[String]
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_Item_System_String_
+  commentId: P:DocGenerator.MyClass.Item(System.String)
+  name.vb: Item(String)
+  fullName: DocGenerator.MyClass.Item[System.String]
+  fullName.vb: DocGenerator.MyClass.Item(System.String)
+  nameWithType: MyClass.Item[String]
+  nameWithType.vb: MyClass.Item(String)
+- uid: DocGenerator.MyClass.Item*
+  name: Item
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_Item_
+  commentId: Overload:DocGenerator.MyClass.Item
+  isSpec: "True"
+  fullName: DocGenerator.MyClass.Item
+  nameWithType: MyClass.Item
+- uid: DocGenerator.MyClass.message
+  name: message
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_message
+  commentId: F:DocGenerator.MyClass.message
+  fullName: DocGenerator.MyClass.message
+  nameWithType: MyClass.message
+- uid: DocGenerator.MyClass.Nested
+  name: MyClass.Nested
+  href: api/DocGenerator.MyClass.Nested.html
+  commentId: T:DocGenerator.MyClass.Nested
+  fullName: DocGenerator.MyClass.Nested
+  nameWithType: MyClass.Nested
+- uid: DocGenerator.MyClass.OnHappened
+  name: OnHappened
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_OnHappened
+  commentId: E:DocGenerator.MyClass.OnHappened
+  fullName: DocGenerator.MyClass.OnHappened
+  nameWithType: MyClass.OnHappened
+- uid: DocGenerator.MyClass.op_Addition(DocGenerator.MyClass,DocGenerator.MyClass)
+  name: Addition(MyClass, MyClass)
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_op_Addition_DocGenerator_MyClass_DocGenerator_MyClass_
+  commentId: M:DocGenerator.MyClass.op_Addition(DocGenerator.MyClass,DocGenerator.MyClass)
+  fullName: DocGenerator.MyClass.Addition(DocGenerator.MyClass, DocGenerator.MyClass)
+  nameWithType: MyClass.Addition(MyClass, MyClass)
+- uid: DocGenerator.MyClass.op_Addition*
+  name: Addition
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_op_Addition_
+  commentId: Overload:DocGenerator.MyClass.op_Addition
+  isSpec: "True"
+  fullName: DocGenerator.MyClass.Addition
+  nameWithType: MyClass.Addition
+- uid: DocGenerator.MyClass.op_Explicit(DocGenerator.MyClass)~System.Int32
+  name: Explicit(MyClass to Int32)
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_op_Explicit_DocGenerator_MyClass__System_Int32
+  commentId: M:DocGenerator.MyClass.op_Explicit(DocGenerator.MyClass)~System.Int32
+  name.vb: Narrowing(MyClass to Int32)
+  fullName: DocGenerator.MyClass.Explicit(DocGenerator.MyClass to System.Int32)
+  fullName.vb: DocGenerator.MyClass.Narrowing(DocGenerator.MyClass to System.Int32)
+  nameWithType: MyClass.Explicit(MyClass to Int32)
+  nameWithType.vb: MyClass.Narrowing(MyClass to Int32)
+- uid: DocGenerator.MyClass.op_Explicit*
+  name: Explicit
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_op_Explicit_
+  commentId: Overload:DocGenerator.MyClass.op_Explicit
+  isSpec: "True"
+  name.vb: Narrowing
+  fullName: DocGenerator.MyClass.Explicit
+  fullName.vb: DocGenerator.MyClass.Narrowing
+  nameWithType: MyClass.Explicit
+  nameWithType.vb: MyClass.Narrowing
+- uid: DocGenerator.MyClass.PI
+  name: PI
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_PI
+  commentId: F:DocGenerator.MyClass.PI
+  fullName: DocGenerator.MyClass.PI
+  nameWithType: MyClass.PI
+- uid: DocGenerator.MyClass.Prop
+  name: Prop
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_Prop
+  commentId: P:DocGenerator.MyClass.Prop
+  fullName: DocGenerator.MyClass.Prop
+  nameWithType: MyClass.Prop
+- uid: DocGenerator.MyClass.Prop*
+  name: Prop
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_Prop_
+  commentId: Overload:DocGenerator.MyClass.Prop
+  isSpec: "True"
+  fullName: DocGenerator.MyClass.Prop
+  nameWithType: MyClass.Prop
+- uid: DocGenerator.MyClass.someMethod(System.String,System.Int32@,System.Void*)
+  name: someMethod(String, ref Int32, Void*)
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_someMethod_System_String_System_Int32__System_Void__
+  commentId: M:DocGenerator.MyClass.someMethod(System.String,System.Int32@,System.Void*)
+  name.vb: someMethod(String, ByRef Int32, Void*)
+  fullName: DocGenerator.MyClass.someMethod(System.String, ref System.Int32, System.Void*)
+  fullName.vb: DocGenerator.MyClass.someMethod(System.String, ByRef System.Int32, System.Void*)
+  nameWithType: MyClass.someMethod(String, ref Int32, Void*)
+  nameWithType.vb: MyClass.someMethod(String, ByRef Int32, Void*)
+- uid: DocGenerator.MyClass.someMethod*
+  name: someMethod
+  href: api/DocGenerator.MyClass.html#DocGenerator_MyClass_someMethod_
+  commentId: Overload:DocGenerator.MyClass.someMethod
+  isSpec: "True"
+  fullName: DocGenerator.MyClass.someMethod
+  nameWithType: MyClass.someMethod
+- uid: Math
+  name: Math
+  href: api/Math.html
+  commentId: N:Math
+  fullName: Math
+  nameWithType: Math
+- uid: Math.Math
+  name: Math
+  href: api/Math.Math.html
+  commentId: T:Math.Math
+  fullName: Math.Math
+  nameWithType: Math
+- uid: Math.Math.Add(System.Double,System.Double)
+  name: Add(Double, Double)
+  href: api/Math.Math.html#Math_Math_Add_System_Double_System_Double_
+  commentId: M:Math.Math.Add(System.Double,System.Double)
+  fullName: Math.Math.Add(System.Double, System.Double)
+  nameWithType: Math.Add(Double, Double)
+- uid: Math.Math.Add(System.Int32,System.Int32)
+  name: Add(Int32, Int32)
+  href: api/Math.Math.html#Math_Math_Add_System_Int32_System_Int32_
+  commentId: M:Math.Math.Add(System.Int32,System.Int32)
+  fullName: Math.Math.Add(System.Int32, System.Int32)
+  nameWithType: Math.Add(Int32, Int32)
+- uid: Math.Math.Add*
+  name: Add
+  href: api/Math.Math.html#Math_Math_Add_
+  commentId: Overload:Math.Math.Add
+  isSpec: "True"
+  fullName: Math.Math.Add
+  nameWithType: Math.Add
+- uid: Math.Math.Divide(System.Double,System.Double)
+  name: Divide(Double, Double)
+  href: api/Math.Math.html#Math_Math_Divide_System_Double_System_Double_
+  commentId: M:Math.Math.Divide(System.Double,System.Double)
+  fullName: Math.Math.Divide(System.Double, System.Double)
+  nameWithType: Math.Divide(Double, Double)
+- uid: Math.Math.Divide(System.Int32,System.Int32)
+  name: Divide(Int32, Int32)
+  href: api/Math.Math.html#Math_Math_Divide_System_Int32_System_Int32_
+  commentId: M:Math.Math.Divide(System.Int32,System.Int32)
+  fullName: Math.Math.Divide(System.Int32, System.Int32)
+  nameWithType: Math.Divide(Int32, Int32)
+- uid: Math.Math.Divide*
+  name: Divide
+  href: api/Math.Math.html#Math_Math_Divide_
+  commentId: Overload:Math.Math.Divide
+  isSpec: "True"
+  fullName: Math.Math.Divide
+  nameWithType: Math.Divide
+- uid: Math.Math.Multiply(System.Double,System.Double)
+  name: Multiply(Double, Double)
+  href: api/Math.Math.html#Math_Math_Multiply_System_Double_System_Double_
+  commentId: M:Math.Math.Multiply(System.Double,System.Double)
+  fullName: Math.Math.Multiply(System.Double, System.Double)
+  nameWithType: Math.Multiply(Double, Double)
+- uid: Math.Math.Multiply(System.Int32,System.Int32)
+  name: Multiply(Int32, Int32)
+  href: api/Math.Math.html#Math_Math_Multiply_System_Int32_System_Int32_
+  commentId: M:Math.Math.Multiply(System.Int32,System.Int32)
+  fullName: Math.Math.Multiply(System.Int32, System.Int32)
+  nameWithType: Math.Multiply(Int32, Int32)
+- uid: Math.Math.Multiply*
+  name: Multiply
+  href: api/Math.Math.html#Math_Math_Multiply_
+  commentId: Overload:Math.Math.Multiply
+  isSpec: "True"
+  fullName: Math.Math.Multiply
+  nameWithType: Math.Multiply
+- uid: Math.Math.Subtract(System.Double,System.Double)
+  name: Subtract(Double, Double)
+  href: api/Math.Math.html#Math_Math_Subtract_System_Double_System_Double_
+  commentId: M:Math.Math.Subtract(System.Double,System.Double)
+  fullName: Math.Math.Subtract(System.Double, System.Double)
+  nameWithType: Math.Subtract(Double, Double)
+- uid: Math.Math.Subtract(System.Int32,System.Int32)
+  name: Subtract(Int32, Int32)
+  href: api/Math.Math.html#Math_Math_Subtract_System_Int32_System_Int32_
+  commentId: M:Math.Math.Subtract(System.Int32,System.Int32)
+  fullName: Math.Math.Subtract(System.Int32, System.Int32)
+  nameWithType: Math.Subtract(Int32, Int32)
+- uid: Math.Math.Subtract*
+  name: Subtract
+  href: api/Math.Math.html#Math_Math_Subtract_
+  commentId: Overload:Math.Math.Subtract
+  isSpec: "True"
+  fullName: Math.Math.Subtract
+  nameWithType: Math.Subtract
