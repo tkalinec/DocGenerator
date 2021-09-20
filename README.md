@@ -1,2 +1,2 @@
 # DocGenerator
-Zdrojáky pro API generátor dokumentace
+Zdrojáky pro DocFX API generátor dokumentace
